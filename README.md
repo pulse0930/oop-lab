@@ -1,7 +1,7 @@
 # OOPS Lab Assignments
 
-NAME : //your name\\ <br>
-ROLL NO. : //your roll no.\\ <br>
+NAME : //your name// <br>
+ROLL NO. : //your roll no.// <br>
 4th Semester <br>
 
 ## Index:
